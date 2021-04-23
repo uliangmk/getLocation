@@ -27,7 +27,6 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
     TextView tv1, tv2, tvPlace;
     private LocationListener locationListener;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
